@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'GlyphWorld AirLand';
+    src: url('GlyphWorld-AirLand.eot');
+    src: url('GlyphWorld-AirLand.eot?#iefix') format('embedded-opentype'),
+        url('GlyphWorld-AirLand.woff2') format('woff2'),
+        url('GlyphWorld-AirLand.woff') format('woff'),
+        url('GlyphWorld-AirLand.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GlyphWorld WasteLand';
+    src: url('GlyphWorld-WasteLand.eot');
+    src: url('GlyphWorld-WasteLand.eot?#iefix') format('embedded-opentype'),
+        url('GlyphWorld-WasteLand.woff2') format('woff2'),
+        url('GlyphWorld-WasteLand.woff') format('woff'),
+        url('GlyphWorld-WasteLand.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GlyphWorld Animal Soul';
+    src: url('GlyphWorld-AnimalSoul.eot');
+    src: url('GlyphWorld-AnimalSoul.eot?#iefix') format('embedded-opentype'),
+        url('GlyphWorld-AnimalSoul.woff2') format('woff2'),
+        url('GlyphWorld-AnimalSoul.woff') format('woff'),
+        url('GlyphWorld-AnimalSoul.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
